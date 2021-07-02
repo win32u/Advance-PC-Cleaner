@@ -1,5 +1,5 @@
 # Advance-PC-Cleaner
-~user manual~
+user manual~
 
 How TO Install:
 1.Download
